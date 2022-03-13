@@ -11,7 +11,7 @@ author: Arnaud Ligny
 description: Powered by Cecil.
 date:
   format: j F Y
-  timezone: Europe/Paris
+  timezone: Europe/London
 hyde:
   sidebar:
     sticky: true

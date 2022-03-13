@@ -3,7 +3,7 @@ title: BIDEN WAS RIGHT! Warmongering Putin Starts New World War and Republicans
   Cheer Him On
 date: 2022-03-13T18:29:01.258Z
 image: https://storage.googleapis.com/afs-prod/media/168d1b8bedc04f9f9255268421ce8de0/1000.jpeg
-draft: true
+draft: false
 ---
 <https://apnews.com/article/russia-ukraine-putin-attack-a05e7c4563ac94b963134bba83187d46>
 
